@@ -41,7 +41,7 @@ function News() {
 
                      <div className="border-[1px] border-gray-300 py-5 bg-white shadow-2xl rounded-2xl hover:shadow-2xl transition-all">
                         <div className="p-5">
-                           <img className="w-full rounded-t-2xl" src="/public/Image (3).png" alt="Image" />
+                           <img className="w-full rounded-t-2xl" src="/Image (3).png" alt="Image" />
                            <button className="text-sm bg-[#FF5A33] text-white px-4 py-2 rounded-full mt-4 mb-4">New</button>
                            <h2 className="text-xl font-semibold text-gray-900 mb-3">Unleash the Power of Advanced Analytics</h2>
                            <p className="text-gray-700 mb-4">Modern and minimal clean personal portfolio template for Framer.</p>
