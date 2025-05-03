@@ -1,5 +1,4 @@
 
-
 import React, { useState } from 'react';
 import { FaChevronLeft, FaChevronRight } from 'react-icons/fa';
 
@@ -21,7 +20,7 @@ function Customers() {
          id: 3,
          name: 'Alex Johnson',
          review: 'The product exceeded my expectations. Excellent value for money!',
-         image: '/Image (3).png',
+         image: '/public/Image (3).png',
       },
    ];
 
